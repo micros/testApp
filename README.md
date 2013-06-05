@@ -1,1 +1,1 @@
-Aqui va la información del proeyecto
+Aqui va la información del proyecto
